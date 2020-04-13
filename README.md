@@ -14,10 +14,10 @@ Data to be redacted:
 
 {
 
-    "card_cvv": "tok_sandbox_mCUqvmtWhFWdUQuCYJ3N2h",
-    "card_expirationDate": "tok_sandbox_czUNDSsuao5SNmBxceGbf5",
-    "card_number": "tok_sandbox_eAS9GdAnbVWEMUjyDeYuXV"
-    
+  "card_number": "4111111111111111",	 
+  "card_cvv": "234",	  
+  "card_expirationDate": "02 / 2023"
+  
 }
 
 
