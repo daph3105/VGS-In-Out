@@ -1,4 +1,4 @@
-# VGS-In-Out
+# VGS-Inbound-Outbound
 
 [DEMO](http://4b07dbc7.ngrok.io/)
 
