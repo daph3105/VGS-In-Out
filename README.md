@@ -46,7 +46,7 @@ $ git clone https://github.com/daph3105/VGS-In-Out.git
 $ npm i
 ```
 
-## Usage (Server side on your machine)
+## Usage
 - have Node and NPM installed
 - create .env file to include your VGS credentials:
   - IDENTIFIER = ***
@@ -54,5 +54,5 @@ $ npm i
   - PASS = **
  ```
  $ node app.js 
- -- to run the server
+ -- to run the app
  ```
