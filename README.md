@@ -24,7 +24,6 @@ Data to be redacted:
 Data to be revealed:
 
 {
-
     "card_cvv": "tok_sandbox_mCUqvmtWhFWdUQuCYJ3N2h",
     "card_expirationDate": "tok_sandbox_czUNDSsuao5SNmBxceGbf5",
     "card_number": "tok_sandbox_eAS9GdAnbVWEMUjyDeYuXV"
