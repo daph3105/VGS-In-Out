@@ -1,6 +1,6 @@
 # VGS-In-Out
 
-[DEMO](https://daph3105.github.io/VGS-test/)
+[DEMO](http://4b07dbc7.ngrok.io/)
 
 
 
