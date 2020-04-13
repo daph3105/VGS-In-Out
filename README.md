@@ -6,19 +6,31 @@
 
 ## Description
 Single field form that takes in an object, example:
+
+
 Data to be redacted:
 
+
+
 {
+
     "card_cvv": "tok_sandbox_mCUqvmtWhFWdUQuCYJ3N2h",
     "card_expirationDate": "tok_sandbox_czUNDSsuao5SNmBxceGbf5",
     "card_number": "tok_sandbox_eAS9GdAnbVWEMUjyDeYuXV"
+    
 }
+
+
 Data to be revealed:
+
 {
+
     "card_cvv": "tok_sandbox_mCUqvmtWhFWdUQuCYJ3N2h",
     "card_expirationDate": "tok_sandbox_czUNDSsuao5SNmBxceGbf5",
     "card_number": "tok_sandbox_eAS9GdAnbVWEMUjyDeYuXV"
+    
 }
+
 The [VGS platform](https://www.verygoodsecurity.com/) encrypts and reveals the following fields:
 - Credit Card number
 - Credit Card CVV
