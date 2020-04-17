@@ -1,10 +1,8 @@
 const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
-var cors = require('cors');
 const { join } = require('path');
 var session = require('express-session')
-const hbs = require('hbs');
 const path = require('path');
 
 
@@ -25,19 +23,6 @@ const tunnel = require('tunnel');
 //body-parser middleware to extract form input and expose it on req.body
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json());
-
-// to handle CORS policy
-app.all('*', function(req, res, next) {
-  res.header('Access-Control-Allow-Origin', '*');
-  res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
-  res.header('Access-Control-Allow-Headers', 'Content-Type');
-  if ('OPTIONS' == req.method) {
-  res.sendStatus(200);
-  } else {
-    next();
-  }
-});
-//---------------------
 
 
 // Express View engine setup
