@@ -56,4 +56,3 @@ $ npm i
  $ node app.js 
  -- to run the app
  ```
-
