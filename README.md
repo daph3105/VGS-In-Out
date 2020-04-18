@@ -1,6 +1,6 @@
 # VGS-In-Out
 
-[DEMO](https://daph3105.github.io/VGS-test/)
+[DEMO](https://vgs-test.herokuapp.com/)
 
 
 
@@ -38,7 +38,7 @@ The [VGS platform](https://www.verygoodsecurity.com/) encrypts and reveals the f
 
 ## Technologies Used
 - This app was built using Node.js with Express.js.
-- ngrok was used for deployment.
+- heroku was used for deployment.
 
 ## Clone or Download
 ```
