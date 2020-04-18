@@ -100,6 +100,7 @@ request({
   }, function(error, response, body){
     if(error) {
       console.log(error);
+      res.redirect('/revealed')
     } else {
 // if successfull, revealed data is returned
       console.log('Status:', response.statusCode);
