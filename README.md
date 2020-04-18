@@ -1,6 +1,6 @@
 # VGS-Inbound-Outbound
 
-[DEMO](http://4b07dbc7.ngrok.io/)
+[DEMO](https://vgs-test.herokuapp.com/)
 
 
 
@@ -37,7 +37,7 @@ The [VGS platform](https://www.verygoodsecurity.com/) encrypts and reveals the f
 
 ## Technologies Used
 - This app was built using Node.js with Express.js.
-- ngrok was used for deployment.
+- heroku was used for deployment.
 
 ## Clone or Download
 ```
